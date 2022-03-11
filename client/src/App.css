@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.App {
+  display: flex;
+  flex-direction: column;
+}
+.cadastro {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  margin: 10px;
+}
+
+.funcionario {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  margin: 10px;
+}
+
+.listaFuncionarios {
+  display: flex;
+  background-color: lightgray;
+  height: 200px;
+  width: 700px;
+  border: 1px solid;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.listaFuncionarios h3 {
+  font-family: 'Courier New', Courier, monospace;
+  margin: 20px;
+}
+.cadastro input {
+  margin-bottom: 10px;
+  width: 300px;
+  height: 40px;
+  font-size: 1rem;
+  padding: 5px;
+}
+
+button {
+  width: 300px;
+  height: 40px;
+  margin-top: 5px ;
+}
+
+button:hover {
+  cursor: pointer;
+}
