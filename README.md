@@ -1,4 +1,4 @@
-# Crud-React
+# Crud-React ⚛️
 
 CRUD simples utilizando React, com maior foco nas funcionalidades, estilização simplória apenas para melhor visualização
 
